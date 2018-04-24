@@ -10,9 +10,6 @@ namespace Tetris
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tetris");
-            Console.ReadKey();
-
         }
     }
 }
